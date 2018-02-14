@@ -1,0 +1,18 @@
+# path to your Interpro distribution
+interproscanPath=/path/to/interproscan
+
+# path to blastp
+blastpPath=/usr/bin/blastp
+
+# path to formatdb
+formatDbPath=/usr/bin/formatdb
+
+# path to makeblastdb
+makeblastdbPath=/none/
+
+# server login
+
+host=your_credentials
+user=your_credentials
+passwd=your_credentials
+db=your_database
